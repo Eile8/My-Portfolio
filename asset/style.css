@@ -1,0 +1,174 @@
+.top {
+    width: auto;
+    height: 90px;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(40 35 35);
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    background: cadetblue;
+    margin: 0px;
+    width: 350px;
+    text-align: center;
+}
+
+nav {
+    margin: 40px;
+}
+
+a {
+    color: cadetblue;
+    margin: 10px;
+}
+
+.space {
+    position: relative;
+    background: lightblue;
+    height: 270px
+}
+
+.cool-subtitle{
+    position: relative;
+    text-align: center;
+    width: 225px;
+    height: 30px;
+    left: 1180px;
+    top: 200px;
+    background: cadetblue;
+}
+
+h2 {
+    height: 250px;
+    text-align: right;
+    margin: 40px;
+    background: darkgrey;
+    padding: 0px;
+    margin: 0px;
+}
+
+.section {
+    height: 250px;
+    position: relative;
+    top: -100px;
+    background: #f3ebed;
+}
+
+h3 {
+    width: 200px;
+    height: 120px;
+    background: #f3ebed;
+    border-right-style: solid;
+    border-right-color: #362d6e;
+    border-width: thick;
+    text-align: end;
+    padding: 20px;
+    margin: 100px;
+    font-size: 65px;
+    color: #362d6e;
+    position: relative;
+    top: 30px;
+}
+
+p {
+    font-size: 17px;
+    color: #362d6e;
+    width: 1100px;
+    background: #f3ebed;
+    position: relative;
+    left: 370px;
+    top: -180px;
+}
+
+.worksection {
+    height: auto;
+    position: relative;
+    top: -100px;
+    background: #f3ebed;
+    padding: 1px;
+}
+
+
+.container {
+    width: 1000px;
+    border: 15px;
+    background: #bfbfce;
+    padding: 10px;
+    margin: 40px;
+    position: relative;
+    height: 500px;
+    left: 350px;
+    top: -300px;
+}
+
+.rectangles {
+    width: 500px;
+    height: 70px;
+    background: grey;
+    position: relative;
+    left: 390px;
+    top: -330px;
+    border-width: thick;
+    border-style: solid;
+    border-color: cadetblue;
+}
+
+.rectangles2 {
+    width: 500px;
+    height: 70px;
+    background: grey;
+    position: relative;
+    left: 910px;
+    top: -400px;
+    border-width: thick;
+    border-style: solid;
+    border-color: cadetblue;
+}
+
+.rectangles3 {
+    width: 500px;
+    height: 70px;
+    background: grey;
+    position: relative;
+    left: 390px;
+    top: -380px;
+    border-width: thick;
+    border-style: solid;
+    border-color: cadetblue;
+}
+
+.rectangles4 {
+    width: 500px;
+    height: 70px;
+    background: grey;
+    position: relative;
+    left: 910px;
+    top: -450px;
+    border-width: thick;
+    border-style: solid;
+    border-color: cadetblue;
+}
+
+.contact {
+    width: 700px;
+    height: auto;
+    position: relative;
+    left: 500px;
+    top: -150px;
+    font-size: 25px;
+    display: flex;
+    list-style: none;
+    align-content: space-between;
+    justify-content: space-between;
+    font-size: 30px;
+}
+
+
+
+
+
